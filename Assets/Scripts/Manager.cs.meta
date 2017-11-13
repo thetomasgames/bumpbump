@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c785a28c488c0c44191ffe2dea5af863
+timeCreated: 1501260217
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - buraco: {fileID: 1545057824755670, guid: 809a7ed0cf006fb4889f83eae4e929f1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
